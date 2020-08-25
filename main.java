@@ -90,7 +90,7 @@ public class main extends Application {
 		Alert alert = new Alert(Alert.AlertType.INFORMATION);
 		alert.setTitle("About the developer");
 		alert.setHeaderText("Mitul Tandon");
-		alert.setContentText("I'm a Java Developer. I am also a Vector Graphic Designer." +
+		alert.setContentText("I'm a Java and python Developer. I am also a data science student." +
 				" I love to create games. Connect4 is one of them.");
 		alert.show();
 	}
